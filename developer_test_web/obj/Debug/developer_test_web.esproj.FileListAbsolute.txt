@@ -1,2 +1,4 @@
 D:\Project\Developer Test\Developer_Test\Developer_Test_Web\obj\Debug\developer_test_web.esproj.SuggestedBindingRedirects.cache
 D:\Project\Developer Test\Developer_Test\Developer_Test_Web\obj\Debug\developer_test_web.esproj.CoreCompileInputs.cache
+D:\New folder\test_developer\developer_test_web\obj\Debug\developer_test_web.esproj.SuggestedBindingRedirects.cache
+D:\New folder\test_developer\developer_test_web\obj\Debug\developer_test_web.esproj.CoreCompileInputs.cache

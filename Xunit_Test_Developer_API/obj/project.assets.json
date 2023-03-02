@@ -6594,11 +6594,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Developer Test\\Test_Developer\\Test_Developer\\Xunit_Test_Developer_API\\Xunit_Test_Developer_API.csproj",
+      "projectUniqueName": "D:\\New folder\\test_developer\\Xunit_Test_Developer_API\\Xunit_Test_Developer_API.csproj",
       "projectName": "Xunit_Test_Developer_API",
-      "projectPath": "D:\\Project\\Developer Test\\Test_Developer\\Test_Developer\\Xunit_Test_Developer_API\\Xunit_Test_Developer_API.csproj",
+      "projectPath": "D:\\New folder\\test_developer\\Xunit_Test_Developer_API\\Xunit_Test_Developer_API.csproj",
       "packagesPath": "C:\\Users\\Mohamma15454\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Developer Test\\Test_Developer\\Test_Developer\\Xunit_Test_Developer_API\\obj\\",
+      "outputPath": "D:\\New folder\\test_developer\\Xunit_Test_Developer_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mohamma15454\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6616,8 +6616,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Project\\Developer Test\\Test_Developer\\Test_Developer\\Test_Developer_api\\Test_Developer_api.csproj": {
-              "projectPath": "D:\\Project\\Developer Test\\Test_Developer\\Test_Developer\\Test_Developer_api\\Test_Developer_api.csproj"
+            "D:\\New folder\\test_developer\\Test_Developer_api\\Test_Developer_api.csproj": {
+              "projectPath": "D:\\New folder\\test_developer\\Test_Developer_api\\Test_Developer_api.csproj"
             }
           }
         }

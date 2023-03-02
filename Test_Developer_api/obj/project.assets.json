@@ -696,11 +696,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Developer Test\\Test_Developer\\Test_Developer\\Test_Developer_api\\Test_Developer_api.csproj",
+      "projectUniqueName": "D:\\New folder\\test_developer\\Test_Developer_api\\Test_Developer_api.csproj",
       "projectName": "Test_Developer_api",
-      "projectPath": "D:\\Project\\Developer Test\\Test_Developer\\Test_Developer\\Test_Developer_api\\Test_Developer_api.csproj",
+      "projectPath": "D:\\New folder\\test_developer\\Test_Developer_api\\Test_Developer_api.csproj",
       "packagesPath": "C:\\Users\\Mohamma15454\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Developer Test\\Test_Developer\\Test_Developer\\Test_Developer_api\\obj\\",
+      "outputPath": "D:\\New folder\\test_developer\\Test_Developer_api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mohamma15454\\AppData\\Roaming\\NuGet\\NuGet.Config",
