@@ -1,0 +1,6 @@
+D:\Project\Developer Test\Test_Developer\Test_Developer\Test_Developer_api\obj\Debug\netcoreapp3.1\Test_Developer_api.csproj.AssemblyReference.cache
+D:\Project\Developer Test\Test_Developer\Test_Developer\Test_Developer_api\obj\Debug\netcoreapp3.1\Test_Developer_api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Developer Test\Test_Developer\Test_Developer\Test_Developer_api\obj\Debug\netcoreapp3.1\Test_Developer_api.AssemblyInfoInputs.cache
+D:\Project\Developer Test\Test_Developer\Test_Developer\Test_Developer_api\obj\Debug\netcoreapp3.1\Test_Developer_api.AssemblyInfo.cs
+D:\Project\Developer Test\Test_Developer\Test_Developer\Test_Developer_api\obj\Debug\netcoreapp3.1\Test_Developer_api.csproj.CoreCompileInputs.cache
+D:\Project\Developer Test\Test_Developer\Test_Developer\Test_Developer_api\obj\Debug\netcoreapp3.1\Test_Developer_api.MvcApplicationPartsAssemblyInfo.cache
